@@ -5,7 +5,9 @@ function App() {
   return (
     <div>
       <h1>Thyagaraju is awesome</h1>
-      <p>this is development with new feature</p>
+      <p>
+        Learning git push pull checkout branch status commit clone fork merge
+      </p>
     </div>
   );
 }
